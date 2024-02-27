@@ -1,7 +1,7 @@
 # Wells_Image_processing
 ## Fluorescence data image processing
 ### Dependencies: 
-(1) Medical Imaging Toolbox
+(1) Medical Imaging Toolbox  
 (2) Cellpose Trained models-this should be in the filepath      
 (3) Deep Learning Toolbox  
 (4) Statistics and Machine Learning Toolbox  
